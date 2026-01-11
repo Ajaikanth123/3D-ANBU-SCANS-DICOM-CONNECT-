@@ -19,7 +19,7 @@ const Sidebar = ({ isOpen, onClose }) => {
               />
             </svg>
             <div className="logo-text">
-              <span className="logo-title">ANBU Dental Diagnostics LLP</span>
+              <span className="logo-title">3D Anbu Dental Diagnostics LLP</span>
               <span className="logo-subtitle">Diagnostic Center</span>
             </div>
           </div>
@@ -76,7 +76,7 @@ const Sidebar = ({ isOpen, onClose }) => {
         </nav>
 
         <div className="sidebar-footer">
-          <p>© 2026 ANBU Dental Diagnostics LLP</p>
+          <p>© 2026 3D Anbu Dental Diagnostics LLP</p>
           <p className="version">v1.0.0</p>
         </div>
       </aside>
